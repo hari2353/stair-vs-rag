@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "stair-vs-rag"
+version = "0.1.0"
+description = "Local reproduction: IBM STAIR (arXiv 2609.03874) vs baselines on ToC retrieval"
+requires-python = ">=3.9"
+dependencies = ["rank_bm25>=0.2.2", "pymupdf>=1.24", "requests>=2.31"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
