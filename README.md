@@ -19,13 +19,17 @@ DPR 68.7 · DSI 76.9 · **STAIR 82.6**, hallucination ~0.05%.
 | Zero-shot STAIR prompt (Table-2 format) on Gemma 2 via Ollama | ✅ |
 | Synthetic query generation per leaf (paper §3.2 method) | ✅ |
 | Benchmark: R@1 + hallucination rate, results JSON | ✅ |
-| LoRA fine-tuning of the retriever (paper's core win is *fine-tuned* STAIR) | ⏳ next |
+| LoRA fine-tuning of the retriever (paper's core win is *fine-tuned* STAIR) | ✅ QLoRA pipeline (`scripts/finetune_stair.py`) |
+| Fine-tuned adapter, Gemma-2-2b-it (token acc 0.85, loss 1.58) | ✅ `outputs/stair-lora-gemma` |
+| Fine-tuned adapter, Qwen2.5-1.5B (token acc 0.74, loss 2.26) | ✅ `outputs/stair-lora-adapter` |
+| Fine-tuned STAIR **R@1 benchmark** (dev-set top-1 with generation) | ⏳ next |
 
 Not reproduced (yet): fine-tuned DSI, DPR/NV-Embed, Elasticsearch BM25
 (rank_bm25 used instead — same scoring family). The paper's *most important*
 halves are the fine-tuned numbers; zero-shot STAIR is expected to land well
 below 82.6 and closer to the paper's out-of-the-box LLM baseline (13.8–45.6
-range) — that gap is exactly what fine-tuning buys, and it is queued.
+range) — that gap is exactly what fine-tuning buys, and the QLoRA adapters
+above are staged toward it (full fine-tuned R@1 still to run).
 
 ## Run
 
