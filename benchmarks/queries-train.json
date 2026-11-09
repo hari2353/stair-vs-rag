@@ -1,0 +1,2162 @@
+[
+  {
+    "query": "According to the author, what are the limitations of traditional classroom teaching methods in the digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific skills does the author emphasize as crucial for development in a digital age learning environment?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Which three design models does the author recommend as most effective for developing digital age skills, and why?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what key difference exists between traditional teaching methods and the requirements of the digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are three design models mentioned in the text that are particularly well-suited for developing digital age skills?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How do design models for teaching adapt to the ever-changing nature of the world, as described in the text?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the primary differences between traditional classroom teaching and the methods required for the digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are some factors that should be considered when selecting a design model for teaching and learning?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why does the author believe online collaborative learning, experiential learning, and agile design are particularly suited for a digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the main reason the book emphasizes focusing on \"media\" rather than just \"technologies\" in education?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the six key building blocks of media?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the text mean by \"affordances of media\"?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is more important than the technology itself when considering its use in education?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does focusing on \"media\" rather than \"technologies\" allow for a more comprehensive understanding of teaching methods?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the six key building blocks of media as outlined in the text?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what should be the primary focus when evaluating the value of a technology in education?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does focusing on \"media\" rather than \"technologies\" allow for a more comprehensive comparison in educational contexts?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the six key building blocks of media as identified in the text?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what factors should influence the choice or combination of media for teaching and learning?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How do learners' capabilities through social media impact the learning process?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What balance should teachers strive for when guiding learners in a digital age learning environment?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What factors should be considered when choosing media for a teaching module?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How have social media empowered learners in the context of education?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the balance teachers need to strike between learner freedom and guidance in a digital learning environment?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the unique pedagogical characteristics that make text, audio, video, computing, and social media useful for teaching and learning?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what factors should be considered when choosing or combining media for a teaching module?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How can teachers balance learner freedom with the need for structure and guidance in a digital learning environment?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the SECTIONS model offer instructors when making decisions about media and technologies?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is one practical way to approach decision-making about media and technologies for teaching and learning?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How should media selection be integrated into the overall teaching process?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is the main challenge in selecting media and technologies for teaching?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the text recommend integrating media selection into the overall course design process?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the potential challenges involved in selecting media and technologies for teaching?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the purpose of the SECTIONS model in the context of media selection?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book recommend integrating media selection into the overall course design process?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the necessary conditions for OER to be effective?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How will the increasing availability of open educational resources impact the role of teachers and the design of courses?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the main value of MOOCs according to the text?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is essential for OER to be effective?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How will the increasing availability of open educational resources impact the role of teachers/instructors?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is necessary for open educational resources to be effective?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What trend does the text predict regarding the future of academic content?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How will the increasing availability of open educational resources affect the role of teachers/instructors?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book define \"quality\" in the context of teaching and learning?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the limitations of traditional quality assurance processes in relation to teaching and learning in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what aspects should be considered when determining the most appropriate mode of delivery for a course?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book define \"quality\" in the context of teaching and learning for a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are some limitations of traditional formal quality assurance processes in relation to teaching and learning in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what qualities are essential for effective teaching in a digital age, beyond technical expertise?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does this book define \"quality\" in the context of teaching and learning?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the limitations of formal quality assurance processes in ensuring quality teaching and learning, particularly in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is crucial for effective teaching in a digital age, beyond technical expertise?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific skills are employers and the business community increasingly seeking in graduates entering the digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How should teachers adapt their teaching methods to effectively develop the knowledge and skills required for success in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the key knowledge and skills employers and the business community seek from graduates entering the digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How can instructors effectively develop and assess the specific skills necessary for success in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What diverse learning modes are essential to accommodate the changing needs of students in the digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the key pressures driving the need for learners to develop digital age skills?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific knowledge and skills are emphasized as essential for graduates entering a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book suggest educators should adapt their teaching methods to cultivate these digital age skills?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the review process differ for commercial textbooks compared to self-published books?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria were used to select reviewers for this particular book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the significance of publishing independent reviews as part of the book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the two stages at which commercial publishers typically seek independent reviews for a book proposal or draft?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary purpose of the lengthy approval and review process for commercial publications according to the text?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria did the author use to select independent reviewers for this book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the two main stages in the commercial publishing process where independent reviews are typically sought?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the independent review process for open textbooks differ from that of commercially published textbooks?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria did the author use to select independent reviewers for this particular book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific criteria did the author prioritize when selecting reviewers for \"Teaching in the Digital Age\"?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What challenges did the author face when determining how to compensate reviewers for their work?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are some generic guidelines that publishers typically provide to book reviewers?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria did the author use to determine if a potential reviewer was qualified?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What challenges did the author face in securing reviewers for a self-published textbook?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are some generic guidelines that commercial publishers typically provide to book reviewers?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "To what extent is the book successful in meeting the intended learning outcomes for its target audience?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How effectively does the book use digital technologies and media to enhance the learning experience?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Are the book's content, organization, and writing style appropriate for the intended audience and purpose?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific examples of technological tools does Professor Mitchell mention as having significantly changed the professional environment?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, what criteria can be used to assess the credibility of an author writing about teaching in the digital age?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Professor Mitchell describe the organization and structure of Dr. Bates' book, \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, what are some tools that have emerged in recent times that were unavailable during his childhood?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria does Professor Mitchell use to assess the credibility of Dr. Tony Bates as an author on the subject of teaching in a digital age?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Professor Mitchell describe the organization of Dr. Bates' book, \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What evidence does Professor Mitchell provide to support his claim that Dr. Bates is a credible source on teaching in a digital age?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, how does Dr. Bates ensure that readers can verify the information presented in the book?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the organizational structure of \"Teaching in a Digital Age,\" as described by Professor Mitchell?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Sir John Daniel characterize the changes taking place in education in the first chapter of the book?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific challenge does Sir John Daniel identify for educators in the digital age based on the changing student population?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Sir John Daniel, what four features make \"Teaching in a Digital Age\" stand out in the growing literature on online learning?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Sir John Daniel characterize the impact of expanding enrolments on teaching methods?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the main point Sir John Daniel makes in the first chapter of \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Sir John Daniel, what four features make *Teaching in a Digital Age* stand out in the growing literature on online learning?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does Sir John Daniel identify as the most significant change in higher education over the past 50 years?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the first chapter of *Teaching in a Digital Age* set the stage for the rest of the book?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the open format of \"Teaching in a Digital Age\" align with current trends in knowledge dissemination within research and education?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What strategies does Bates utilize to connect theoretical concepts with practical application within the context of \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific pedagogical challenges does the Ryerson University team identify as particularly relevant for instructors in higher education?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the authors, how does Bates' book approach knowledge dissemination compared to traditional publishing models?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "In what ways does the text suggest that Bates' \"walks the talk\" of active learning and facilitation?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the review, what makes Teaching in a Digital Age a \"model\" in its publishing format?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the review characterize Bates' approach to teaching and learning in his own book?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific methods does Bates use to illustrate theories and concepts in Teaching in a Digital Age?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What distinguishes the materials found in MERLOT from those in other learning materials collections?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the MERLOT review, what are the recommended uses for \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Who is the target audience for \"Teaching in a Digital Age\" as identified in the MERLOT review?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the specific criteria used in the MERLOT II Peer Review process for evaluating materials?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the review, what are the recommended uses for \"Teaching in the Digital Age\"?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Who is the target audience for \"Teaching in the Digital Age\" as identified by the MERLOT review?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What distinguishes MERLOT materials from those found in other learning materials collections?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the MERLOT review, what are the recommended uses for \"Teaching in the Digital Age\"?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific student populations does the MERLOT review identify as appropriate for this book?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what is the relationship between the purpose of universities and colleges and the need for a skilled workforce?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the author's stance on the increasing use of technology in education?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How has technology impacted the traditional delivery of education, according to the author?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the author characterize the trajectory of technology change in education and its impact on instructors?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, how can universities fulfill both their broader purpose and the needs of the labor market?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why does the author emphasize the importance of good teaching practices in the digital age?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How has the role of technology in education changed in recent years, and what are the implications of this shift?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is listed as a technological artefact in Figure 7.1?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific technologies does the author identify as part of the \"Software\" category?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What  year did the author's internet provider upgrade their services?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what are the 3 categories of technologies present in Figure 7.1?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific hardware components are mentioned in the text as being part of the home entertainment system?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the author suggest is a potential solution to the complexity of the home entertainment system?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what is the reason the question \"How many technologies can you see in Figure 7.1?\" is unfair?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Besides listing specific technologies, what broader point does the author make about technology integration in the home entertainment system?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, which two mediums/technologies were considered the most difficult to categorize and why?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does understanding the placement of media on the broadcast/communicative dimension assist educators in selecting appropriate tools?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what determines whether a learning management system is categorized as a technology or a medium?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Based on the provided list, which two mediums were the most difficult to categorize and why?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How can understanding the broadcast/communicative dimension of different media help teachers make decisions about their pedagogical approach?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does understanding the broadcast/communicative dimension of different media help in choosing appropriate media for teaching?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific focus does Anderson's (2008) article in Wired Magazine explore regarding the implications of data in scientific research?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary focus of Balfour's (2013) research on MOOCs as detailed in the bibliography?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the main focus of the 2013 Linc conference video by A. Agarwal?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Which publication provides data on online learning trends in the United States?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What was the subject of the 2008 Wired Magazine article by C. Anderson?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What year did Agarwal present their work on the \"Developing World of MOOCs\" at the MIT Linc conference?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What organization published the 2011 report \"Trends in Higher Education: Volume 1-Enrolment\"?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the suggested alternative to a traditional index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where is the search function located within a digital textbook section?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the search function provide when a term or name is entered?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What tool is suggested as a replacement for an index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where is this suggested tool located within a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the reason given for not including an index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where is the search function located within each section of a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the search function do when a term or name is entered?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the main difference between traditional classroom teaching methods and the methods needed in a digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what are three design models that are particularly effective for developing the skills needed in a digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why are \"light and nimble\" design models for teaching considered essential in today's world?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what is the primary difference between teaching methods appropriate for the past and those needed for the present?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are three design models that the author considers particularly effective for developing the skills needed in a digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why does the author believe design models for teaching should be \"light and nimble\"?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What limitations does the book highlight regarding traditional classroom teaching methods in the context of the digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what type of skills are prioritized in a digital age learning environment compared to traditional memorization?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Which three design models does the author suggest are most effective for developing digital age skills, and why?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What limitations does the author identify with traditional classroom teaching methods in the context of the digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what specific skills should design models for teaching and learning prioritize in the digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What three design models does the author suggest are particularly effective for developing knowledge and skills needed in a digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why are traditional teaching methods, such as lectures, considered less effective in the digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the key differences between teaching for knowledge memorization and teaching for skill development in the digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what are three design models particularly suited for developing the knowledge and skills needed in a digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why are traditional teaching methods, such as lectures, no longer as effective in today's digital age?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary focus shift in education needed for the digital age, and what skills should be emphasized?",
+    "gold_leaf": "15.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what should be the primary focus when evaluating the value of technology in education?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why is it beneficial to include face-to-face teaching as a medium in educational contexts?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the six key building blocks of media identified in the text?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary emphasis when assessing the value of technology in education, according to the text?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does focusing on \"media\" rather than \"technologies\"  broadly impact educational comparisons?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book differentiate between focusing on \"technologies\" versus \"media\" in education?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are \"affordances\" in the context of media and technology?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is more important than the technology itself when considering its value in education?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does focusing on media rather than technologies allow for a broader comparison of teaching methods?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is more important than the technology itself when evaluating its value in education?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why is it beneficial to include face-to-face teaching as a medium within the framework of media analysis?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is more important than the specific technologies used in education?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why is it beneficial to consider face-to-face teaching as a medium within the context of educational media?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the six key building blocks of media, as identified in the text?",
+    "gold_leaf": "19.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How can learners utilize social media for creating and demonstrating their knowledge?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the balance teachers should strive for between learner freedom and over-direction in a digital learning environment?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the four factors that should be considered when choosing media for a teaching module?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How do learners' abilities to create their own learning materials through social media impact the role of the teacher?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the text suggest is the ideal balance between learner freedom and teacher direction in a digital learning environment?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what factors should be considered when choosing media for a teaching module?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How can teachers balance learner freedom with the need for guidance in a digital learning environment?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what five types of media are particularly useful for teaching and learning?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What four factors should be considered when choosing or combining media for teaching and learning?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are two potential benefits of learners creating their own online personal learning environments?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, how can learners utilize social media for their own learning?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the author's perspective on the balance between learner freedom and teacher direction in a digital learning environment?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the factors that should be considered when choosing media for a teaching module?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How do learners' capabilities through social media impact the creation and demonstration of learning materials?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the suggested balance teachers should strive for when incorporating digital learning tools?",
+    "gold_leaf": "20.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What factors contribute to the complexity of selecting media and technologies for teaching?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How should media selection be integrated within the overall course design process?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What range of factors does the author identify as influencing media selection?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what practical approach to media selection is recommended?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the text suggest integrating media selection into course design?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the main factors that influence the selection of media and technologies for teaching?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the SECTIONS model and how can it help instructors make decisions about media selection?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, how should media selection be integrated into the overall course design process?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the key factors influencing the selection of media and technologies for teaching and learning according to the text?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the SECTIONS model and how can it be used to guide media selection decisions?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the author suggest integrating media selection within the broader context of course design?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are some of the interacting variables involved in the process of selecting media and technologies?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the SECTIONS model and how can it be used to inform instructional media decisions?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are some of the interacting variables involved in selecting media and technologies for teaching?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book suggest media selection should be integrated into the overall course design process?",
+    "gold_leaf": "21.2.1 Chapter 9 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the essential characteristics of effective OER integration within a learning environment?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How will the increasing availability of open educational resources transform the role of instructors and course design in the future?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What limitations does the book identify with MOOCs in providing high-quality qualifications for learners with limited educational access?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is crucial for open educational resources (OER) to be effective?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How will the increasing availability of open educational materials impact the role of instructors?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary value of MOOCs, according to the text?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How can open educational resources be effectively integrated into a learning environment?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What impact will the increasing availability of open educational resources have on the role of instructors?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is the primary value of MOOCs?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the key factors to consider when designing a course that effectively utilizes open educational resources?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How will the increasing availability of open educational resources affect the role of instructors in the future?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the limitations of MOOCs as a solution for providing high-quality qualifications to learners with limited access to education?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the essential conditions for OER to be effective in a learning environment?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What significant shift is anticipated in the role of teachers/instructors due to the increasing availability of open educational resources?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the primary limitations of MOOCs in terms of providing high-quality qualifications to learners with limited access to education?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How will the increasing availability of open educational resources impact the role of instructors and the design of courses?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the limitations of MOOCs in providing learners with high-quality qualifications?",
+    "gold_leaf": "24.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the book, what defines quality in teaching and learning?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the limitations of traditional formal quality assurance processes in the context of digital age learning?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why is rethinking traditional teaching methods crucial in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book define \"quality\" in the context of teaching and learning in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what essential aspects should instructors consider when re-thinking their teaching for a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, how is \"quality\" defined in the context of this book?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are some limitations of formal quality assurance processes in higher education, as described in the text?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why is it important to re-think traditional teaching methods in light of new technologies and the needs of digital-age learners?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the book, how is \"quality\" defined in the context of teaching and learning?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What limitations does the book identify with traditional formal quality assurance processes in education?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the book emphasize as crucial for effective teaching in a digital age, beyond technical expertise?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the limitations of formal national and institutional quality assurance processes in relation to teaching and learning in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why does the book emphasize the need to re-think traditional campus-based teaching in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the book, how is quality defined in the context of teaching and learning?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the limitations of formal national and institutional quality assurance processes in ensuring quality teaching and learning in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why is it crucial to re-evaluate traditional teaching methods in light of new technologies and the needs of learners in a digital age?",
+    "gold_leaf": "25.2.1 Key Takeaways",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the main pressures driving the need for learners to develop specific knowledge and skills in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the book, what are the key intellectual and practical skills that graduates need to thrive in a digital world?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book suggest educators should adapt their teaching methods to meet the diverse learning needs of students in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What types of pressure are leading to a demand for specific knowledge and skills in learners?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What pedagogical shifts are necessary to effectively develop the knowledge and skills needed in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the primary drivers behind the need for learners to develop digital age skills?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific skills are highlighted as essential for graduates in a digital age, and how are these skills relevant across various subject domains?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the text propose educators should adapt their teaching methods to effectively develop the necessary skills for learners in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the book, what are the main drivers pushing for changes in education to prepare learners for the digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific knowledge and skills does the book emphasize as crucial for graduates entering a digital world?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book suggest teachers should adapt their teaching methods to effectively develop these essential skills in students?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the specific types of knowledge and skills emphasized as essential for graduates in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, how should teachers and instructors adapt their teaching methods to effectively cultivate these essential skills in learners?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What factors necessitate a wider range of learning delivery modes in the digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific knowledge and skills are in high demand from employers and the business community for learners in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How can teachers and instructors effectively develop the knowledge and skills required for success in a digital age?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What diverse range of students require educational approaches and delivery modes suited to their individual needs and circumstances?",
+    "gold_leaf": "26.2.1 Key Takeaways (from the book as a whole)",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the two stages at which commercial publishers typically seek independent reviews for a book proposal?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary reason, according to the text, why books are highly valued in the academic tenure and promotion process?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria were used to select the independent reviewers for this particular book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the two stages at which commercial publishers typically seek independent reviews for an academic book or textbook?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Besides external reviewers, who else plays a significant role in the decision-making process regarding a book proposal at a commercial publishing company?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific criteria did the author use when selecting reviewers for this particular book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the two stages in which commercial publishers typically seek independent reviews for an academic book or textbook?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the potential drawbacks of the lengthy review process for an author?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific criteria were used to select independent reviewers for this particular book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the two stages in which commercial publishers typically seek independent reviews for a book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria did the author use when selecting potential reviewers for this book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the review process for self-published books differ from that of commercially published books?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is one reason why books hold significant weight in the academic tenure and promotion process?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria did the author prioritize when selecting reviewers for this specific book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the two main stages in the independent review process for a commercial textbook?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the review process for self-published books differ from that of commercial textbooks?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria were used to select independent reviewers for this specific book?",
+    "gold_leaf": "30.2.1 Independence",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria did the author prioritize when selecting reviewers for \"Teaching in the Digital Age\"?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What factors did the author consider when determining the appropriate compensation for reviewers?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the author determine the qualifications needed for a book reviewer in this context?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What considerations did the author make regarding compensation for the reviewers?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific guidelines did the author provide to the reviewers, adapted from BCcampus?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How effectively does the book present its content, considering factors like clarity, organization, and accessibility?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the book's strengths and weaknesses in relation to its stated purpose and intended use?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "To what extent is the book successful in meeting its stated goals and intended audience?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How well does the book present its subject matter, including clarity, organization, and use of examples?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the book's strengths and weaknesses in terms of pedagogy, accessibility, and overall effectiveness?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How well does the book achieve its stated learning objectives?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the strengths and weaknesses of the book's structure, content, and pedagogical approach?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What were the author's considerations regarding payment for reviewers?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are some generic guidelines that commercial publishers often provide to book reviewers?",
+    "gold_leaf": "30.3 Guidelines for the review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, what are some examples of technological tools that have significantly changed our professional environment?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What makes Professor Mitchell believe that Dr. Bates is a credible author on the topic of teaching in a digital age?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, what are some examples of tools that didn't exist when educators were children that are now commonplace?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific evidence does Professor Mitchell provide to support his claim that Dr. Bates is a credible source on teaching in the digital age?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Professor Mitchell describe the organization of the book \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, what makes Dr. Bates a credible source on the topic of teaching in a digital age?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific examples does Professor Mitchell provide to demonstrate Dr. Bates' practical experience in education?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Professor Mitchell describe the organization of the information presented in \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, what are some examples of tools that have emerged in the digital age that didn't exist when many educators were children?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What criteria does Professor Mitchell use to assess the credibility of Dr. Bates as an author?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, what are some examples of tools that didn't exist when he was a child?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does Professor Mitchell say about the credibility of Dr. Tony Bates as the author of \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Professor Mitchell describe the organization of \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific experiences does Professor James Mitchell cite that demonstrate Dr. Bates' credibility in the field of digital education?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Professor Mitchell, how does Dr. Bates' book \"Teaching in a Digital Age\" address the reader's understanding of knowledge?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the logical structure Professor Mitchell identifies in Dr. Bates' book, as outlined in the Table of Contents?",
+    "gold_leaf": "30.4 A review from a faculty perspective: Professor James Mitchell",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book's open access format contribute to its effectiveness as a learning resource?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Sir John Daniel, what are the four key features that distinguish this book from other works on online learning?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the main argument presented in the first chapter of the book regarding the impact of student demographics on teaching methods?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Sir John Daniel describe the impact of expanding enrolments on teaching methods?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Sir John Daniel, what is the most significant change in higher education over the last 50 years?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the key skills needed in a digital age, as identified by Sir John Daniel?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Sir John Daniel, what are the four key features that distinguish \"Teaching in a Digital Age\" from other works on online learning?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Sir John Daniel characterize the changes taking place in students within higher education over the last 50 years?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the central challenge identified in the first chapter of \"Teaching in a Digital Age,\" as outlined by Sir John Daniel?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What four key features distinguish  'Teaching in a Digital Age' from other works on online learning, according to Sir John Daniel?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the book's structure contribute to its overall effectiveness as an e-textbook?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the central challenge facing educators today, as outlined in the first chapter of the book?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What four features does Sir John Daniel highlight that make \"Teaching in a Digital Age\" stand out in the growing literature on online learning?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the main challenge facing educators today according to Sir John Daniel?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Sir John Daniel, what are the four key features that make \"Teaching in a Digital Age\" stand out in the literature on online learning?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Sir John Daniel characterize the impact of expanding student enrollments on teaching methods?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the central challenge identified by Sir John Daniel in relation to contemporary higher education?",
+    "gold_leaf": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific challenges do the authors at Digital Education Strategies see in supporting pedagogical change in higher education?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the authors, what is one of the greatest strengths of Tony Bates' book \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does Bates' approach to writing \"Teaching in a Digital Age\" align with his stated objectives for the book?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific challenges does the review identify regarding the organization and presentation of Bates' ideas in \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the review characterize Bates' approach to teaching and learning in relation to the traditional model of knowledge transmission?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What types of supplementary resources does the review mention Bates providing to support his arguments and observations?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the author of this review characterize the format of \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the review, what specific aspect of Bates' approach does the review find particularly valuable?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the review suggest is a potential area for improvement in \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the authors, what is one of the primary strengths of Bates's approach to teaching in \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific analogy does the review use to describe the way Bates's book functions for instructors?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "In what way do the authors suggest Bates's work could be improved to better serve its audience?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the review characterize the open format publication model?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific analogy does the review use to describe Bates's book and its intended impact on educators?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the review, what pedagogical approach does Bates exemplify throughout his book?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific challenges does the author identify with the dissemination of knowledge in digital education?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the authors, how does Bates' approach to teaching in a digital age differ from traditional methods?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What strategies does Bates utilize to make complex theories and concepts more accessible to educators?",
+    "gold_leaf": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What distinguishes the review process for materials on MERLOT from other learning materials collections?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the target student populations for this book, as identified in the MERLOT review?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What distinguishes the MERLOT materials review process from other learning material collections?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the review, what are the recommended uses for \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Who is the target student population for \"Teaching in a Digital Age\"?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific features of MERLOT distinguish it from other learning materials collections?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the recommended uses for the book \"Teaching in a Digital Age\" according to the MERLOT review?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What distinguishes the review process for materials on MERLOT from other learning material collections?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific population of individuals is this book deemed appropriate for by the MERLOT reviewers?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What type of material is \"Teaching in the Digital Age\" according to the MERLOT review?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Who are the suggested target users for \"Teaching in the Digital Age\"?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the primary learning goals outlined for readers of \"Teaching in the Digital Age\"?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What types of users does MERLOT II consider this book appropriate for?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary focus of \"Teaching in a Digital Age,\" according to the MERLOT II review?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What prior knowledge or skills does the review suggest would be beneficial for readers of this book?",
+    "gold_leaf": "30.7 MERLOT II Peer Review",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, how can the goals of universities and colleges be aligned with workforce needs in the digital age?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the author emphasize regarding the impact of technology on the quality of teaching in higher education?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the author characterize the role of technology in education and its evolving influence on teaching practices?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, how can universities balance their broader purpose with the need to create a skilled and adaptable workforce?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the author describe the current state and future trajectory of technology in education?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, how can universities and colleges balance their broader purpose with the need to create a skilled and adaptable workforce?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why does the author emphasize the importance of good quality teaching based on sound pedagogical principles in the digital age?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How has the role of technology in education evolved in recent years?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the author suggest about the increasing diversity of students and the availability of content, and its impact on teaching?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the author's perspective on the accelerating pace of technological change and its implications for educators?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the author's thoughts on the relationship between a university's broader purpose and the need to produce a skilled workforce?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does the author suggest technology impacts the importance of pedagogical expertise in higher education?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the author's perspective on the increasing influence of technology on the educational landscape?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the author's view on the increasing influence of technology in education?",
+    "gold_leaf": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is listed as a hardware technology that is not digital?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are three examples of \"services\" mentioned in the text?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What technological upgrade did the author's internet provider make in 2016?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what is the primary challenge in listing all the software used in the home entertainment system?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific technological advancement did the author's Internet provider make in 2016?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Besides the author's personal experience, what broader issue does the author raise regarding the home entertainment industry?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the three categories of technology the author lists?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific example of software is mentioned as being used to display images on the television monitor?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the author's wish for the future regarding home entertainment technology?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what is a potential issue with simply counting the technologies visible in Figure 7.1?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What prompted the author to upgrade their home entertainment system in 2016?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what are the three categories of technologies illustrated in Figure 7.1?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific software applications does the author list as potentially being used in the depicted setup?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What technology upgrade did the author's internet provider implement in 2016?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the three main categories of technology the author lists in their analysis of Figure 7.1?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what makes it difficult to list all the software technologies present in Figure 7.1?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific event in 2016 prompted the author to upgrade their home entertainment system?",
+    "gold_leaf": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the criteria used to classify a tool as either a technology or a medium in the context of teaching and learning?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the feedback, where on Figure 6.4.3 would the author place \"online collaborative learning\" and why?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What challenges did the author face when categorizing \"online collaborative learning\" and \"Twitter\" on the broadcast/communicative dimension?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what are the criteria for determining whether something is a medium or a technology, or both?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "How does understanding the broadcast/communicative dimension of media help educators make decisions about which media to use?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why did the author find \"online collaborative learning\" and \"Twitter\" particularly difficult to categorize?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, how can understanding the broadcast/communicative dimension of media help in choosing appropriate media for teaching?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the author, what makes categorizing \"Twitter\" a challenging task in terms of its placement on the broadcast/communicative dimension?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, which of the listed options is considered both a medium and a technology, and under what conditions?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "In the text, which two options were identified as particularly challenging to categorize, and why?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the text, what is the difference between a medium and a technology, and under what conditions can something be both?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Based on the author's experience, what makes categorizing some mediums or technologies easier than others?",
+    "gold_leaf": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What are the key characteristics of television highlighted by Bates in his 1981 journal article?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to the bibliography, what is the focus of  Anderson's 2008 article \"The End of Theory\"?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific challenges in assessing writing in MOOCs are explored by Balfour in 2013?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Which year did the article \"Learning in a VUCA world\" by C. Adamson appear in the Online Educa Berlin News Portal?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the title of the video presentation by A. Agarwal regarding MOOCs presented at the MIT (Linc 2013) conference?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What year did the Association of Universities and Colleges of Canada (AUCC) publish \"Trends in Higher Education: Volume 1-Enrolment\"?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Which article in the bibliography focuses on the impact of instructor immediacy and presence on student learning in online environments?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What year was the article \"Learning in a VUCA world\" published?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific topics are covered by the article \"The Theory and Practice of Online Learning\"?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary focus of the article \"Learning in a VUCA world\" by Charles Adamson?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific MOOC-related insights does the 2013 Linc conference video by Anjali Agarwal offer?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the title of the book edited by Anderson, T. in 2008 and published by Athabasca University Press?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What topic does the work by Balfour, S. P. (2013) address regarding Massive Open Online Courses (MOOCs)?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Which book by Anderson delves into the Theory and Practice of Online Learning?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "According to Anderson, L. and Krathwohl, D. (2001), what is the title of their work that revises Bloom's Taxonomy?",
+    "gold_leaf": "32 Bibliography",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Why does the author state there is no need for an index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What alternative to an index is suggested for digital textbooks?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where can you find this alternative tool within a section of the digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is suggested as a replacement for an index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where is the suggested replacement for an index located within a digital textbook section?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the search function within a digital textbook do when a term or name is entered?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the primary reason given for not including an index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where can a reader find information about specific terms or names within a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What specific function is mentioned as a replacement for an index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is suggested as an alternative to an index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where is the suggested alternative tool located within a digital textbook section?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the suggested alternative tool allow users to do?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the rationale given for omitting an index from a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What is the alternative to using an index in a digital textbook, as described in this section?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where is the search function located within a digital textbook section, according to this text?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the author suggest as an alternative to an index in a digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "Where is the search function located in each section of the digital textbook?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  },
+  {
+    "query": "What does the search function allow readers to do when looking for specific terms or names?",
+    "gold_leaf": "33 Index",
+    "book": "teaching-digital-age"
+  }
+]

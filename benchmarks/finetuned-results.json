@@ -1,0 +1,421 @@
+{
+  "aggregate": {
+    "finetuned-lora": {
+      "queries": 50,
+      "recall_1": 0.0,
+      "hallucination_rate": 1.0
+    },
+    "bm25": {
+      "queries": 50,
+      "recall_1": 0.68,
+      "hallucination_rate": 0.0
+    },
+    "zero-shot-stair": {
+      "queries": 50,
+      "recall_1": 0.12,
+      "hallucination_rate": 0.86
+    }
+  },
+  "rows": [
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "15.2.1 Key Takeaways",
+      "query": "Why are traditional classroom teaching methods considered less effective in the digital age?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2 Key Takeaways",
+      "gold": "15.2.1 Key Takeaways",
+      "query": "What shift in emphasis is crucial for effective teaching in the digital age?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31.2.1 Key Takeaways",
+      "gold": "15.2.1 Key Takeaways",
+      "query": "According to the author, which three design models are most suitable for developing digital age skills?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "19.2.1 Key Takeaways",
+      "query": "How does the book suggest judging the value of a technology in an educational setting?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "19.2.1 Key Takeaways",
+      "query": "What is included in the book's definition of \"media\" that differentiates it from a simple focus on technology?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "19.2.1 Key Takeaways",
+      "query": "According to the book, what are the six key building blocks of media?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "20.2.1 Key Takeaways",
+      "query": "What are the unique pedagogical characteristics of text, audio, video, computing, and social media?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "20.2.1 Key Takeaways",
+      "query": "According to the text, what factors should inform the choice or combination of media for teaching?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "21.2.1 Chapter 9 Key Takeaways",
+      "query": "What are the key factors involved in the selection process for media and technologies in education?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "21.2.1 Chapter 9 Key Takeaways",
+      "query": "According to the text, what is the SECTIONS model and how can it be used to guide media selection decisions?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "21.2.1 Chapter 9 Key Takeaways",
+      "query": "Why is it important to integrate media selection within the broader framework of course design?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "24.2.1 Key Takeaways",
+      "query": "What are the key factors that contribute to the effectiveness of open educational resources?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "24.2.1 Key Takeaways",
+      "query": "How will the increasing availability of open educational resources change the role of instructors in the future?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "24.2.1 Key Takeaways",
+      "query": "What are the limitations of MOOCs in providing learners with high-quality qualifications?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "25.2.1 Key Takeaways",
+      "query": "According to the book, what defines \"quality\" in teaching and learning within the context of a digital age?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "25.2.1 Key Takeaways",
+      "query": "What are the limitations of traditional formal quality assurance processes in relation to contemporary teaching and learning needs?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "25.2.1 Key Takeaways",
+      "query": "What aspects of teaching require re-evaluation in light of new technologies and the evolving needs of digital-age learners?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2 Key Takeaways",
+      "gold": "26.2.1 Key Takeaways (from the book as a whole)",
+      "query": "According to the text, what are some of the key pressures driving the need for learners to develop specific skills in a digital age?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "26.2.1 Key Takeaways (from the book as a whole)",
+      "query": "What pedagogical shifts are recommended in the text to effectively develop the knowledge and skills needed for a digital age?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31.2.1 Key Takeaways",
+      "gold": "30.2.1 Independence",
+      "query": "What are the two stages in the commercial publishing process where independent reviews are typically sought?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.2.1 Independence",
+      "query": "What distinguishes the review process for open textbooks like those from OpenStax or the BCcampus project from traditional self-published books?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.2.1 Independence",
+      "query": "What criteria were used by the author to select reviewers for this specific book?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.3 Guidelines for the review",
+      "query": "To what extent is the book successful in meeting the needs of its target audience?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.3 Guidelines for the review",
+      "query": "How effective are the book's pedagogical strategies and activities in supporting learning?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.3 Guidelines for the review",
+      "query": "Are the book's contents accurate, up-to-date, and relevant to current trends in the field?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.4 A review from a faculty perspective: Professor James Mitchell",
+      "query": "What specific reasons does Professor Mitchell give for believing that Dr. Tony Bates is a credible author on the topic of teaching in a digital age?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31.2.1 Appendix: Feedback from the book's author, Dr. Bates",
+      "gold": "30.4 A review from a faculty perspective: Professor James Mitchell",
+      "query": "How does Professor Mitchell describe the organization of Dr. Bates' book \"Teaching in a Digital Age\"?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+      "query": "How does Sir John Daniel describe the evolving nature of knowledge and its impact on teaching approaches?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+      "query": "What are the four key features that distinguish Teaching in a Digital Age from other literature on online learning, according to Sir John Daniel?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.5 A review from an open and distance education perspective: Sir John Daniel",
+      "query": "How does Sir John Daniel characterize the changes in students within higher education over the past 50 years?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+      "query": "What specific challenges does the book address in supporting pedagogical change in higher education?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+      "query": "How does the book's open format contribute to the accessibility and dissemination of knowledge?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.6 A review from a digital education perspective: Digital Education Strategies, Ryerson University",
+      "query": "According to the review, what strategies does Bates utilize to engage readers and illustrate his concepts effectively?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "30.7 MERLOT II Peer Review",
+      "query": "What are the recommended uses for \"Teaching in a Digital Age\" according to the MERLOT II Peer Review?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.1 Appendix: Feedback on the book",
+      "gold": "30.7 MERLOT II Peer Review",
+      "query": "What is the target student population for \"Teaching in a Digital Age\"?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31.1 Appendix A: Key Takeaways",
+      "gold": "30.7 MERLOT II Peer Review",
+      "query": "According to the review, what is the primary goal of \"Teaching in a Digital Age\"?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+      "query": "According to the author, how can universities fulfill both their broader purpose and the need to create a skilled workforce?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+      "query": "Why does the author believe that good quality teaching based on sound pedagogical principles is increasingly important in higher education?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "31.1 Appendix 4: Feedback on Activity 1.8 Main conclusions from Chapter 1",
+      "query": "What is the author's perspective on the increasing pressure to use technology in education?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31.2.1 Key Takeaways",
+      "gold": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+      "query": "According to the author, what are the three main categories of technology represented in Figure 7.1?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31.2.1 Appendix 7.1: Software",
+      "gold": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+      "query": "What specific examples of software are mentioned as potentially being used in the setup depicted in Figure 7.1?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "31.2 Appendix 4: Feedback on Activity 7.1 How many technologies can you see in Figure 7.1?",
+      "query": "What year did the author upgrade their home entertainment system and what prompted this decision?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+      "query": "According to the text, what are the criteria for classifying something as a medium versus a technology?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "31.3 Appendix 4: Feedback on Activity 7.5 Broadcast or communicative",
+      "query": "How does understanding the \"broadcast/communicative dimension\"  assist in choosing media for teaching, according to the author?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31 Bibliography",
+      "gold": "32 Bibliography",
+      "query": "According to the bibliography, what year was the article \"Learning in a VUCA world\" published?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31 Index",
+      "gold": "32 Bibliography",
+      "query": "What is the title of the video by Agarwal (2013) referenced in the bibliography?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "31 Appendix A: List of publications",
+      "gold": "32 Bibliography",
+      "query": "What specific journal is the article \"Assessing teaching presence in a computer conferencing context\" published in?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "33 Index",
+      "query": "According to the text, why is an index unnecessary in a digital textbook?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "33 Index",
+      "query": "What feature is suggested as a replacement for an index in a digital textbook?"
+    },
+    {
+      "system": "finetuned-lora",
+      "r1": 0,
+      "hallucinated": true,
+      "pred": "30.2.1 Key Takeaways",
+      "gold": "33 Index",
+      "query": "Where is the suggested replacement feature located within a digital textbook?"
+    }
+  ]
+}
