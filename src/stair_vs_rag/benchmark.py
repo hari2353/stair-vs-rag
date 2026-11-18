@@ -10,8 +10,8 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
-from .baselines import BM25Retriever
-from .eval import score_prediction
+from .baselines import BM25Retriever, ChunkRetriever
+from .eval import ndcg_at_k, mrr_at_k, recall_at_k, score_prediction
 from .genqueries import GenQueries
 from .ingest import extract_book, leaves_texts, to_paper_lines
 from .llm import OllamaClient, STAIRAgent
@@ -23,10 +23,19 @@ def aggregate(rows: list[dict]) -> dict:
     for r in rows:
         by_sys[r["system"]].append(r)
     for system, rs in by_sys.items():
+        n = len(rs)
+
+        def mean(key: str) -> float:
+            return sum(float(x.get(key, x.get("r1", 0.0))) for x in rs) / n
+
         out[system] = {
-            "queries": len(rs),
-            "recall_1": sum(x["r1"] for x in rs) / len(rs),
-            "hallucination_rate": sum(1 for x in rs if x["hallucinated"]) / len(rs),
+            "queries": n,
+            "recall_1": sum(float(x.get("r1", 0.0)) for x in rs) / n,
+            "recall_5": mean("r5"),
+            "recall_10": mean("r10"),
+            "mrr_10": mean("mrr"),
+            "ndcg_10": mean("ndcg"),
+            "hallucination_rate": sum(float(x.get("hallucinated", 0.0)) for x in rs) / n,
         }
     return out
 
@@ -57,19 +66,26 @@ def run(pdf_path: str, out_dir: str = "benchmarks", n_per_leaf: int = 3) -> dict
         queries_path.write_text(json.dumps(queries, indent=2, ensure_ascii=False))
 
     retriever = BM25Retriever(dict(texts))
+    chunked = ChunkRetriever(dict(texts))
+    known = frozenset(texts)
     rows = []
     for q in queries:
-        pred, hall = None, False
         leaf = agent.pick_leaf(Path(pdf_path).stem, toc_lines, q["query"])
-        pred = leaf
-        s = score_prediction(True, pred or "", q["gold_leaf"])
-        hall = pred is None
-        rows.append({"system": "stair", "r1": s.r1, "hallucinated": hall,
+        s = score_prediction(True, leaf or "", q["gold_leaf"], known_leaves=known)
+        rows.append({"system": "stair", "r1": s.r1, "r5": s.r1, "r10": s.r1,
+                     "mrr": float(s.r1), "ndcg": float(s.r1),
+                     "hallucinated": not s.valid, "valid": s.valid,
                      "query": q["query"]})
-        bm_top = [leaf_id for leaf_id, _ in retriever.search(q["query"], k=1)]
-        sb = score_prediction(True, bm_top[0], q["gold_leaf"]) if bm_top else None
-        rows.append({"system": "bm25", "r1": sb.r1 if sb else 0,
-                     "hallucinated": False, "query": q["query"]})
+        for system, ret in (("bm25", retriever), ("bm25_chunks", chunked)):
+            ranked = [leaf_id for leaf_id, _ in ret.search(q["query"], k=10)]
+            rows.append({"system": system,
+                         "r1": int(recall_at_k(ranked, q["gold_leaf"], 1)),
+                         "r5": int(recall_at_k(ranked, q["gold_leaf"], 5)),
+                         "r10": int(recall_at_k(ranked, q["gold_leaf"], 10)),
+                         "mrr": mrr_at_k(ranked, q["gold_leaf"], 10),
+                         "ndcg": ndcg_at_k(ranked, q["gold_leaf"], 10),
+                         "hallucinated": False, "valid": True,
+                         "query": q["query"]})
 
     agg = aggregate(rows)
     (out / "results.json").write_text(json.dumps({"aggregate": agg, "rows": rows},

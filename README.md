@@ -18,7 +18,8 @@ DPR 68.7 · DSI 76.9 · **STAIR 82.6**, hallucination ~0.05%.
 | BM25 over leaf-section text (rank_bm25, local) | ✅ |
 | Zero-shot STAIR prompt (Table-2 format) on Gemma 2 via Ollama | ✅ |
 | Synthetic query generation per leaf (paper §3.2 method) | ✅ |
-| Benchmark: R@1 + hallucination rate, results JSON | ✅ |
+| Benchmark: R@1/R@5/R@10, MRR@10, nDCG@10 + hallucination rate, results JSON | ✅ |
+| Fixed-chunk BM25 baseline (`bm25_chunks`) for structure-vs-chunking comparison | ✅ |
 | LoRA fine-tuning of the retriever (paper's core win is *fine-tuned* STAIR) | ✅ QLoRA pipeline (`scripts/finetune_stair.py`) |
 | Fine-tuned STAIR **R@1 benchmark** (held-out 50 queries) | ✅ **0.86** — beats BM25 0.68, zero-shot 0.12 (matches paper ordering) |
 | Fine-tuned adapter, Gemma-2-2b-it, v2 (432 synthetic queries) | ✅ `outputs/stair-lora-gemma-v2` |
@@ -39,7 +40,7 @@ queries per book the adapter only learns the leaf *format*.
 ```bash
 python3 -m venv .venv && .venv/bin/pip install -e ".[dev]"
 brew services start ollama && ollama pull gemma2   # once
-.venv/bin/python -m pytest -q                      # 23 tests
+.venv/bin/python -m pytest -q                      # 40 tests
 .venv/bin/python -m stair_vs_rag.benchmark benchmarks/raw/teaching-digital-age.pdf
 
 # fine-tuned STAIR (paper §3.2 synthetic queries -> QLoRA -> held-out R@1)
@@ -52,6 +53,21 @@ python scripts/eval_finetuned.py --adapter outputs/stair-lora-gemma-v2
 Results land in `benchmarks/results.json` + `benchmarks/queries.json`
 (committed so numbers are auditable; raw PDFs are not — see .gitignore).
 
+## Evaluation additions (market-steal, 2026-11-18)
+
+- **Ranking metrics, BEIR-style** — every system row carries `r1`/`r5`/`r10`,
+  `mrr` and `ndcg`; the aggregate reports `recall_5`, `recall_10`, `mrr_10`
+  and `ndcg_10` next to `recall_1`. Old rows without rank fields default to
+  their `r1` (a lower bound), so historical result JSON stays readable.
+- **Honest hallucination semantics** — `score_prediction(..., known_leaves=...)`
+  flags `hallucinated` only when the output matches **no** real leaf (an
+  invented citation, the paper's definition); a wrong-but-real leaf is a
+  retrieval miss. Legacy calls without `known_leaves` keep the old behavior.
+- **Fixed-chunk RAG baseline** — `ChunkRetriever` splits every leaf into
+  120-word chunks with 20-word overlap, runs BM25 over chunks, and returns
+  one best score per leaf (`bm25_chunks` system). This is the comparison the
+  paper motivates: structure-aware leaves vs arbitrary chunking.
+
 ## Layout
 
 ```
@@ -59,12 +75,12 @@ src/stair_vs_rag/
   toc.py        ToC model, parse/render, strict leaf matching (hallucination gate)
   ingest.py     PDF -> ToC entries + per-leaf text (page ranges)
   prompt.py     verbatim STAIR prompt shape (paper Table 2)
-  baselines.py  BM25 leaf retriever
+  baselines.py  BM25 leaf retriever + fixed-chunk baseline
   llm.py        Ollama chat client + STAIRAgent (pick_leaf, hallucination log)
   genqueries.py synthetic QA per leaf (gold = source leaf)
-  eval.py       per-prediction score + prefix match
-  benchmark.py  aggregate + end-to-end run
-tests/          23 pytest tests incl. synthetic-PDF ToC fixtures
+  eval.py       per-prediction score, validity, Recall@k/MRR/nDCG
+  benchmark.py  aggregate + end-to-end run (stair, bm25, bm25_chunks)
+tests/          40 pytest tests incl. synthetic-PDF ToC fixtures
 ```
 
 Spec-driven rules honored: backward/forward compatibility starts here —
