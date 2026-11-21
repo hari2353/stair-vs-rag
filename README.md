@@ -68,6 +68,14 @@ Results land in `benchmarks/results.json` + `benchmarks/queries.json`
   one best score per leaf (`bm25_chunks` system). This is the comparison the
   paper motivates: structure-aware leaves vs arbitrary chunking.
 
+## Self-checking retrieval
+
+`SelfCorrectingRetriever` wraps any `search(query, k)` retriever, accepts the
+top leaf only when it is a known ToC leaf and clears `min_score`, retries once
+with a deterministic stopword-stripped query, and otherwise abstains with
+`no_results`, `no_supported_leaf` or `below_threshold`. Citations only ever
+name known leaves. The check is rule-based, so it is offline and deterministic.
+
 ## Layout
 
 ```
@@ -79,8 +87,9 @@ src/stair_vs_rag/
   llm.py        Ollama chat client + STAIRAgent (pick_leaf, hallucination log)
   genqueries.py synthetic QA per leaf (gold = source leaf)
   eval.py       per-prediction score, validity, Recall@k/MRR/nDCG
+  selfcheck.py  citation-validated retry + abstention
   benchmark.py  aggregate + end-to-end run (stair, bm25, bm25_chunks)
-tests/          40 pytest tests incl. synthetic-PDF ToC fixtures
+tests/          47 pytest tests incl. synthetic-PDF ToC fixtures
 ```
 
 Spec-driven rules honored: backward/forward compatibility starts here —
